@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
