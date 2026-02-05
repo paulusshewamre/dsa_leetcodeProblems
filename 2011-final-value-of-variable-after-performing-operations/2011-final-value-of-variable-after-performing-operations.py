@@ -1,9 +1,3 @@
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
-        res = 0
-        for op in operations:
-            if op[1] == "+":
-                res += 1
-            else:
-                res -= 1
-        return res
+        return sum(1 if op[1] == "+" else -1 for op in operations)
