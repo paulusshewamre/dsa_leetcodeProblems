@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
