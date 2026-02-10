@@ -4,11 +4,7 @@ class Solution:
                  "....","..",".---","-.-",".-..","--","-.",
                  "---",".--.","--.-",".-.","...","-","..-",
                  "...-",".--","-..-","-.--","--.."]
-        res = []
-        for word in words:
-            code = ""
-            for char in word:
-                code += morseCode[ord(char)-97]
-            res.append(code.strip())
-        
-        return len(set(res))
+        seen = {"".join(morseCode[ord(c) - ord('a')] for c in word)
+                for word in words}
+                
+        return len(seen)
