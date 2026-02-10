@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
