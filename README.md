@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
