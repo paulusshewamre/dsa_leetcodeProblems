@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
 | ------- |
