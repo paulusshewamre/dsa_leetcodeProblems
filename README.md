@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1528-shuffle-string) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1920-build-array-from-permutation) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0447-number-of-boomerangs) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0134-gas-station) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Recursion
 |  |
@@ -145,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
