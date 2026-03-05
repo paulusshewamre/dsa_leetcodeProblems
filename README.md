@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0056-merge-intervals) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0189-rotate-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0134-gas-station) |
 | [0969-pancake-sorting](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
