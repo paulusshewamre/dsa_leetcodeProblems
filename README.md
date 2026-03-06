@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0969-pancake-sorting) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Recursion
 |  |
 | ------- |
