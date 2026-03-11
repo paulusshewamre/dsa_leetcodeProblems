@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1920-build-array-from-permutation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1920-build-array-from-permutation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0969-pancake-sorting](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0969-pancake-sorting) |
 | [1089-duplicate-zeros](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1089-duplicate-zeros) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
