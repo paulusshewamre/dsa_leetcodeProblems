@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0867-transpose-matrix) |
+| [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0986-interval-list-intersections) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
