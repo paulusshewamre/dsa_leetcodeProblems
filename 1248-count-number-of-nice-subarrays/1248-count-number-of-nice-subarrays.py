@@ -1,25 +1,13 @@
 class Solution:
     def numberOfSubarrays(self, nums: List[int], k: int) -> int:
-        if k == 0:
-            return self.helper(nums, k)
-        return self.helper(nums, k) - self.helper(nums, k-1)
+        return self.atMost(nums, k) - self.atMost(nums, k - 1)
 
-
-    def helper(self, nums, k):
-        l, r = 0, 0
-        cnt = 0
-        total = 0
-
-        while r < len(nums):
-            if nums[r] % 2 != 0:
-                total += 1
-            
-            while l <= r and total > k:
-                if nums[l] % 2 != 0:
-                    total -= 1
-                l+=1
-            
-            cnt += r - l + 1
-            r+=1
-        return cnt
-            
+    def atMost(self, nums: List[int], k: int) -> int:
+        window_size, subarrays, start = 0, 0, 0
+        for end in range(len(nums)):
+            window_size += nums[end] % 2
+            while window_size > k:
+                window_size -= nums[start] % 2
+                start += 1
+            subarrays += end - start + 1
+        return subarrays
