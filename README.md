@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0447-number-of-boomerangs) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
+| [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -250,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
