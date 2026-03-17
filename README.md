@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
 | ------- |
