@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -269,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
