@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Simulation
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1695-maximum-erasure-value) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
