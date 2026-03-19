@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
+| [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
