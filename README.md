@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1695-maximum-erasure-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Counting Sort
 |  |
 | ------- |
