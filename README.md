@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Math
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1695-maximum-erasure-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Counting Sort
 |  |
