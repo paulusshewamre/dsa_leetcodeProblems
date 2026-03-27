@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0904-fruit-into-baskets) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0881-boats-to-save-people) |
