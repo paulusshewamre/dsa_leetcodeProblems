@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2381-shifting-letters-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2381-shifting-letters-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2381-shifting-letters-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [2381-shifting-letters-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2381-shifting-letters-ii) |
 ## Design
 |  |
 | ------- |
