@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0447-number-of-boomerangs) |
+| [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
 | [1248-count-number-of-nice-subarrays](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
