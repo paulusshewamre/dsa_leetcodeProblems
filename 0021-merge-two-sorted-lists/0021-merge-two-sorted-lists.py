@@ -16,11 +16,10 @@ class Solution:
                 temp.next = list2
                 list2 = list2.next
             temp = temp.next
-            
+
         if list1:
             temp.next = list1
-        
-        if list2:
+        else:
             temp.next = list2
         
 
