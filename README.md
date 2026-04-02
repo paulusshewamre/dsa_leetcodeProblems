@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0455-assign-cookies) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -353,9 +355,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
