@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
 ## Linked List
@@ -348,7 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
