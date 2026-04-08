@@ -3,7 +3,7 @@ class Solution:
         stk = []
 
         for s in logs:
-            if s[1] == '.':
+            if s== '../':
                 if len(stk) > 0:
                     stk.pop()
             elif s == "./":
