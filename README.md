@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0506-relative-ranks) |
 ## Bucket Sort
@@ -400,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0739-daily-temperatures) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
