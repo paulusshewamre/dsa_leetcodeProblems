@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
 | [0804-unique-morse-code-words](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
@@ -382,6 +383,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
