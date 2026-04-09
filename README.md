@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
