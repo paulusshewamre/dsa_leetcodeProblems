@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0503-next-greater-element-ii) |
