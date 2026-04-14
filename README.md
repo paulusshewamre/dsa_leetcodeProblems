@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0447-number-of-boomerangs) |
+| [0509-fibonacci-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -438,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
