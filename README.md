@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
+| [3174-clear-digits](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3174-clear-digits](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0853-car-fleet) |
 | [1598-crawler-log-folder](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
