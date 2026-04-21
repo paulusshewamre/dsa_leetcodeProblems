@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
+| [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0789-escape-the-ghosts](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0789-escape-the-ghosts) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
