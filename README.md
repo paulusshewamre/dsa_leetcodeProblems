@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
@@ -472,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
