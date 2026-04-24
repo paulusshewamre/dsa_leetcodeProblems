@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -490,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
