@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1089-duplicate-zeros) |
 | [1109-corporate-flight-bookings](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1109-corporate-flight-bookings) |
 | [1122-relative-sort-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1122-relative-sort-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
