@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0969-pancake-sorting) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
