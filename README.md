@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
