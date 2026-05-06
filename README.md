@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0739-daily-temperatures) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0875-koko-eating-bananas) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/paulusshewamre/dsa_leetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
